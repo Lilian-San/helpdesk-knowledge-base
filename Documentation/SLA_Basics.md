@@ -1,16 +1,16 @@
-What is an SLA?
+# What is an SLA?
 
 A Service Level Agreement (SLA) is a documented contract between a service provider and a customer that defines the expected level of service. 
 
 It outlines the responsibilities, performance standards, response times, availability targets and penalties or remedies if the agreed service levels are not achieved.
 
-Why are SLAs important?
+## Why are SLAs important?
 
 SLAs create clear, achievable expectations between service providers and customers in how services will be delivered, monitored and handled. 
 
 They are also a good tool to measure quality of service and track performance to identify areas that need improvement.
 
-Types of SLA
+## Types of SLA
 
 **Customer level SLA:** This is used for a specific customer or client, covering all services under one agreement. It is more personalised and aligned to customer needs.
 
