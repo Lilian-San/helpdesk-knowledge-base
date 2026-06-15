@@ -1,4 +1,4 @@
-## Ticket Summary
+# Ticket Summary
 
 A user reported that nobody in the office was able to print to the main office printer. Approximately 25 users were affected and documents required for customer interactions could not be printed. Print jobs remained in the queue and were not reaching the printer.
 

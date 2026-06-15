@@ -1,4 +1,4 @@
-## What is Root Cause Analysis?
+# What is Root Cause Analysis?
 
 It is a structured process for identifying the fundamental reasons behind IT incidents and problems, aiming to implement permanent solutions and prevent them from reoccurring. 
 

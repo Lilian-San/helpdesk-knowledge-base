@@ -1,4 +1,4 @@
-## What is IT troubleshooting?
+# What is IT troubleshooting?
 
 It is a process of diagnosing and fixing issues with hardware, software or networks.
 
